@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnjaniGourisaria" alt="AnjaniGourisaria" /></a> </p>
 
 <h1 align="center"> </h1>
-<h3 align="left">Follow Me</h3>
+<h3 align="left">Follow Me!</h3>
 <p align="left"> <a href="https://twitter.com/Anjani0x41" target="blank"><img src="https://img.shields.io/twitter/follow/Anjani0x41?logo=twitter&style=for-the-badge" alt="AnjaniGourisaria" /></a> </p>
 <!-- - 🔭 I’m currently working on ** <JOBS> ** -->
 
