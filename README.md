@@ -25,12 +25,9 @@ AnajniGourisaria#0772
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Anjani0x41" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter
-/twitter-official.svg" alt="0x41414141" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/AnjaniGourisaria" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin
-/linkedin-tile.svg" alt="AnjaniGourisaria" height="30" width="40" /></a>
-<a href="https://discord.gg/AnajniGourisaria#0772" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="AnajniGourisaria#0772"
-height="30" width="40" /></a>
+<a href="https://twitter.com/Anjani0x41" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="0x41414141" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/AnjaniGourisaria" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="AnjaniGourisaria" height="30" width="40" /></a>
+<a href="https://discord.gg/AnajniGourisaria#0772" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="AnajniGourisaria#0772" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
