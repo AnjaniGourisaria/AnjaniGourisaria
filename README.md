@@ -1,5 +1,5 @@
 <h1 align="center">I'm Anjani Gourisaria </h1>
-<h3 align="center"><Head of Security/></h3>
+<h3 align="center">&lt;Head of Security/&gt;</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnjaniGourisaria&label=Profile%20views&color=0e75b6&style=flat" alt="AnjaniGourisaria" /> </p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/RajuTry.png" alt="TryHackMe">
