@@ -59,7 +59,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnjaniGourisaria&" alt="AnjaniGourisaria" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnjaniGourisaria" alt="AnjaniGourisaria" />
 </p>
 
 <p>
