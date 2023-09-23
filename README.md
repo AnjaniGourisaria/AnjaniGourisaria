@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anjani0x41" target="blank"><img src="https://img.shields.io/twitter/follow/anjani0x41?logo=twitter&style=for-the-badge" alt="anjani0x41" /></a> </p>
 
-- 🌱 I’m currently learning **Intrusion Detection System,**
+- 🌱 I’m currently learning **Preparing for OSCP,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnjaniGourisaria/](https://github.com/AnjaniGourisaria/)
 
