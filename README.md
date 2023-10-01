@@ -24,8 +24,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=anjanigourisaria&show_icons=true&locale=en" alt="anjanigourisaria" width="100" height="100"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anjanigourisaria&show_icons=true&locale=en&layout=compact" alt="anjanigourisaria" width="100" height="100"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=anjanigourisaria&show_icons=true&locale=en" alt="anjanigourisaria" width="100%" height="100%"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anjanigourisaria&show_icons=true&locale=en&layout=compact" alt="anjanigourisaria" width="350px" height="100%"></td>
   </tr>
 </table>
 
