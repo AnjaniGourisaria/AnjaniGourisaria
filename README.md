@@ -25,8 +25,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=anjanigourisaria&show_icons=true&locale=en" alt="anjanigourisaria" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anjanigourisaria&show_icons=true&locale=en&layout=compact" alt="anjanigourisaria" /></td>
   </tr>
-   <tr>
-     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anjanigourisaria&show_icons=true&locale=en&layout=compact" alt="anjanigourisaria" /></td>
-   </tr>
 </table>
+
