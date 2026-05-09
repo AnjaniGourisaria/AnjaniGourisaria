@@ -57,6 +57,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=anjanigourisaria&show_icons=true&locale=en&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/top-langs?username=anjanigourisaria&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
-  <img src="https://github-readme-stats-fast.vercel.app/top-langs?username=anjanigourisaria&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anjanigourisaria&layout=compact&theme=radical" alt="Top Languages" />
 </p>
