@@ -57,7 +57,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=anjanigourisaria&show_icons=true&locale=en&theme=radical&hide_border=true&v=1" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=anjanigourisaria&theme=radical&hide_border=true" alt="Streaks" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=anjanigourisaria&show_icons=true&locale=en&theme=radical&hide_border=true&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=anjanigourisaria&theme=radical&hide_border=true" alt="Streaks" width="48%" />
 </p>
-
